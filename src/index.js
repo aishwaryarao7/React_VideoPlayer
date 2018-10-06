@@ -8,7 +8,7 @@ import VideoList from './components/video_list';
 import VideoDetail from './components/video_detail';
 
 
-const API_KEY = 'AIzaSyBZdMIXV1vP8J126DftKBsr2Q8DZMM02L4';
+
 
 
 
